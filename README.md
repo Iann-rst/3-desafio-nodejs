@@ -31,3 +31,8 @@ A rota deve receber, pelo parâmetro da rota, o `id` do repositório que deve se
 A rota deve receber, pelo parâmetro da rota, o `id` do repositório que deve receber o like e retornar o repositório com a quantidade de likes atualizada.
 
 ## :camera: Screenshot
+
+<div align="center">
+  <h3 align="center">Testes das rotas</h3>
+  <img src=".github/test.png" alt="">
+</div>
